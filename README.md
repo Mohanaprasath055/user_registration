@@ -1,0 +1,1 @@
+In this project, I had create API which gets the user_id, user_name and mail_id as input and checks whether it is already present in the database or not. If yes, It will return the id already exists. If not,the data record in the database.
