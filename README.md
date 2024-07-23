@@ -1,1 +1,1 @@
-In this project, I had create API which gets the user_id, user_name and mail_id as input and checks whether it is already present in the database or not. If yes, It will return the id already exists. If not,the data record in the database.
+In this project, I created an API that accepts `user_id`, `user_name`, and `mail_id` as input. The API checks whether the user information already exists in the database. If the user data is found, it returns a message indicating that the ID already exists. If the user data is not found, it records the new data in the database.
